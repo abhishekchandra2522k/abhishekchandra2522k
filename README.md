@@ -13,7 +13,7 @@
   <img align="left" alt="Abhishek's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerrank.svg" />
 </a>
 
-<a href="https://abhishekchandra2522k.github.io/">
+<a href="https://github.com/abhishekchandra2522k">
   <img align="right" alt="Abhishek's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
 </a>
 
