@@ -33,10 +33,9 @@
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=midnight-purple" align = "center"/>
 </p>
-
+<p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchandra2522k&theme=vue" align = "left" alt = "Top Lang's"/>
-
-<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra" alt = "Abhishek's wakatime stats" align = "right"/>
+</p>
 
 
 <!--
