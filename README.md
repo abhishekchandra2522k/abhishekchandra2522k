@@ -33,10 +33,10 @@
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=midnight-purple" align = "center"/>
 </p>
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchandra2522k&theme=vue" alt = "Top Lang's"/>
-</p>
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchandra2522k&theme=vue" alt = "Top Lang's" align = "left"/>
+
+<img align = "right" src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra" alt = "Abhishek's Wakatime Stats"/>
 
 <!--
 **abhishekchandra2522k/abhishekchandra2522k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
