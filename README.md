@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://abhishekchandra2522k.github.io/">
-  <img align="left" alt="Abhishek's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
+  <img align="right" alt="Abhishek's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
