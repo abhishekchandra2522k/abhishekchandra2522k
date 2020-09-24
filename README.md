@@ -5,23 +5,23 @@
   <img align="left" alt="Abhishek's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.hackerearth.com/@1ac23456789">
+<a href="https://www.hackerearth.com/@1ac23456789" target="_blank">
   <img align="left" alt="Abhishek's HackerEarth" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerearth.svg" />
 </a>
 
-<a href="https://www.hackerrank.com/Abhishek_Coder">
+<a href="https://www.hackerrank.com/Abhishek_Coder" target="_blank">
   <img align="left" alt="Abhishek's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerrank.svg" />
 </a>
 
-<a href="https://github.com/abhishekchandra2522k">
+<a href="https://github.com/abhishekchandra2522k" target="_blank">
   <img align="right" alt="Abhishek's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com" target="_blank">
   <img align="left" alt="Abhishek's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/gmail.svg" />
 </a>
 
-<a href="https://www.instagram.com/_abhishekchandra/">
+<a href="https://www.instagram.com/_abhishekchandra/" target="_blank">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/instagram.svg" />
 </a>
 
