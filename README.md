@@ -35,9 +35,9 @@
 </p>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchandra2522k&theme=vue" alt = "Top Lang's" align = "left"/>
-
-<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra" alt = "Abhishek's Wakatime Stats" align = "right"/>
-
+<p align = "right">
+![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra)
+</p>
 <!--
 **abhishekchandra2522k/abhishekchandra2522k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,4 +51,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
