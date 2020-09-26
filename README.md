@@ -24,13 +24,16 @@
 <a href="https://www.instagram.com/_abhishekchandra/" target="_blank">
   <img align="left" alt="Abhishek's Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/instagram.svg" />
 </a>
-<ol>
-  <li>- 🔭 I’m currently working on Machine Learning.</li>
-  <li>- 🌱 I’m currently learning Java.</li>
-  <li>- 👯 I’m looking to collaborate on Data Analytics Projects.</li>
-  <li>- 🤔 I’m looking for help with full stack development.</li>
-  <li>- ⚡ Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.</li>
-</ol>
+
+<br/>
+</br>
+Hi, I am Abhishek Chandra.
+
+- 🔭 I’m currently working on Machine Learning.
+ - 🌱 I’m currently learning Java.
+ - 👯 I’m looking to collaborate on Data Analytics Projects.
+ - 🤔 I’m looking for help with full stack development.
+ - ⚡ Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.
 </br>
 </br>
 </br>
