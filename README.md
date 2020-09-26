@@ -1,5 +1,4 @@
-## Namaste and Welcome :pray: 
-<hr>
+## Namaste and Welcome :pray:
 
 <a href="https://www.linkedin.com/in/abhishek-chandra-071977114/" target="_blank">
   <img align="left" alt="Abhishek's LinkedIn" width="20px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -37,9 +36,9 @@
 
  - 🔭 I’m currently working on Machine Learning.
  - 🌱 I’m currently learning Java.
- - 👯 I’m looking to collaborate on Data Analytics Projects.
- - 🤔 I’m looking for help with full stack development.
- - ⚡ Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.
+ - :bell: I’m looking to collaborate on Data Analytics Projects.
+ - :runner: I’m looking for help with full stack development.
+ - :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.
  
  
 </br>
