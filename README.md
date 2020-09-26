@@ -31,7 +31,7 @@
 </br>
 </br>
 
-### Hi, I am Abhishek Chandra.
+### Hi, I am Abhishek Chandra, I am doing graduation from Guru Gobind Singh Indraprastha University, will graduate in 2022.
 
 
  - 🔭 I’m currently working on Machine Learning.
