@@ -34,9 +34,9 @@
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=midnight-purple" align = "center"/>
 </p>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchandra2522k&theme=vue" alt = "Top Lang's" align = "left"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchandra2522k&theme=onedark&layout=compact" alt = "Top Lang's" align = "left"/>
 
-[![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra)](https://github.com/abhishekchandra2522k)
+[![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=dark)](https://github.com/abhishekchandra2522k)
 <!--
 **abhishekchandra2522k/abhishekchandra2522k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
