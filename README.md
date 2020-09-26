@@ -1,4 +1,4 @@
-<b><p align = "center"> Namaste and Welcome :pray: </p></b>
+## Namaste and Welcome :pray: 
 <hr>
 
 <a href="https://www.linkedin.com/in/abhishek-chandra-071977114/" target="_blank">
