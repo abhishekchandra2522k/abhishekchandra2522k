@@ -5,6 +5,10 @@
   <img align="left" alt="Abhishek's LinkedIn" width="20px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com" target="_blank">
+  <img align="left" alt="Abhishek's Gmail" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/gmail.svg" />
+</a>
+
 <a href="https://www.hackerearth.com/@1ac23456789" target="_blank">
   <img align="left" alt="Abhishek's HackerEarth" width="20px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerearth.svg" />
 </a>
@@ -13,22 +17,22 @@
   <img align="left" alt="Abhishek's HackerRank" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerrank.svg" />
 </a>
 
-<a href="https://github.com/abhishekchandra2522k" target="_blank">
-  <img align="right" alt="Abhishek's GitHub" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com" target="_blank">
-  <img align="left" alt="Abhishek's Gmail" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/gmail.svg" />
-</a>
-
 <a href="https://www.instagram.com/_abhishekchandra/" target="_blank">
   <img align="left" alt="Abhishek's Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/instagram.svg" />
+</a>
+
+<a href="https://twitter.com/abhishek2522000">
+  <img align="left" alt="Abhishek Chandra | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/twitter.svg" />
+</a>
+
+<a href="https://github.com/abhishekchandra2522k" target="_blank">
+  <img align="right" alt="Abhishek's GitHub" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
 </a>
 
 <br/>
 </br>
 Hi, I am Abhishek Chandra.
-
+<br>
 - 🔭 I’m currently working on Machine Learning.
  - 🌱 I’m currently learning Java.
  - 👯 I’m looking to collaborate on Data Analytics Projects.
