@@ -35,10 +35,10 @@
 #### I am doing graduation from Guru Gobind Singh Indraprastha University, will graduate in 2022.
 
 
- - 🔭 I’m currently working on Machine Learning.
+ - 🔭 I’m currently working on a Machine Learning Project.
  - 🌱 I’m currently learning Java.
  - :bell: I’m looking to collaborate on Data Analytics Projects.
- - :runner: I’m looking for help with full stack development.
+ - :runner: I’m looking for help with Full Stack Development.
  - :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.
  
  
