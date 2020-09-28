@@ -1,5 +1,7 @@
 ## Namaste and Welcome :pray:
 
+### Hi, I am Abhishek Chandra.
+
 <a href="https://www.linkedin.com/in/abhishek-chandra-071977114/" target="_blank">
   <img align="left" alt="Abhishek's LinkedIn" width="20px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -24,6 +26,8 @@
   <img align="left" alt="Abhishek Chandra | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/twitter.svg" />
 </a>
 
+You can connect with me :point-up:
+
 <a href="https://github.com/abhishekchandra2522k" target="_blank">
   <img align="right" alt="Abhishek's GitHub" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
 </a>
@@ -31,7 +35,7 @@
 </br>
 </br>
 
-### Hi, I am Abhishek Chandra.
+
 #### I am doing graduation from Guru Gobind Singh Indraprastha University, will graduate in 2022.
 
 
