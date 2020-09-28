@@ -26,11 +26,12 @@
   <img align="left" alt="Abhishek Chandra | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/twitter.svg" />
 </a>
 
-You can connect with me :point-up:
-
 <a href="https://github.com/abhishekchandra2522k" target="_blank">
   <img align="right" alt="Abhishek's GitHub" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
 </a>
+</br>
+You can connect with me :point_up:
+
 
 </br>
 </br>
