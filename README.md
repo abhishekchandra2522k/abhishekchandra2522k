@@ -31,7 +31,7 @@
 </a>
 </br>
 </br>
-You can connect with me :point_up:
+You can connect with me on :point_up:
 
 
 </br>
