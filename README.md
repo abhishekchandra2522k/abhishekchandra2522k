@@ -1,6 +1,6 @@
 ## Namaste and Welcome :pray:
 
-### Hi, I am Abhishek Chandra.
+### I am Abhishek Chandra.
 
 <a href="https://www.linkedin.com/in/abhishek-chandra-071977114/" target="_blank">
   <img align="left" alt="Abhishek's LinkedIn" width="20px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
