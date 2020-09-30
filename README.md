@@ -11,11 +11,11 @@
 </a>
 
 <a href="https://www.hackerearth.com/@1ac23456789" target="_blank">
-  <img align="left" alt="Abhishek's HackerEarth" width="20px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerearth.svg" />
+  <img align="right" alt="Abhishek's HackerEarth" width="20px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerearth.svg" />
 </a>
 
 <a href="https://www.hackerrank.com/Abhishek_Coder" target="_blank">
-  <img align="left" alt="Abhishek's HackerRank" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerrank.svg" />
+  <img align="right" alt="Abhishek's HackerRank" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerrank.svg" />
 </a>
 
 <a href="https://www.instagram.com/_abhishekchandra/" target="_blank">
@@ -31,7 +31,7 @@
 </a>
 </br>
 </br>
-You can connect with me on :point_up:
+Connect with me on :point_up:
 
 
 </br>
