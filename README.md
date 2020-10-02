@@ -46,11 +46,9 @@ Connect with me on :point_up:
  - :runner: I’m looking for help with Full Stack Development.
  - :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.
  <br/>
- <br/>
  
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md">:cd: Top Language Card</a>
- 
-</br>
+
 </br>
 
 <p align = "center">
