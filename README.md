@@ -1,4 +1,4 @@
-## Namaste and Welcome!
+## नमस्ते and Welcome!
 
 ### I am Abhishek Chandra.
 
