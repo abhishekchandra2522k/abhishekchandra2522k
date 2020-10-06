@@ -2,6 +2,17 @@
 
 ### I am Abhishek Chandra.
 
+
+#### I am doing graduation from Guru Gobind Singh Indraprastha University, will graduate in 2022.
+
+ - 🔭 I’m currently working on a Machine Learning Project.
+ - 🌱 I’m currently learning Java.
+ - :bell: I’m looking to collaborate on Data Analytics Projects.
+ - :runner: I’m looking for help with Full Stack Development.
+ - :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.
+ <br/>
+ 
+ Connect with me on..
 <a href="https://www.linkedin.com/in/abhishek-chandra-071977114/" target="_blank">
   <img align="left" alt="Abhishek's LinkedIn" width="20px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -31,22 +42,9 @@
 </a>
 </br>
 </br>
-Connect with me on :point_up:
-
-</br>
-</br>
 
 
-#### I am doing graduation from Guru Gobind Singh Indraprastha University, will graduate in 2022.
-
-
- - 🔭 I’m currently working on a Machine Learning Project.
- - 🌱 I’m currently learning Java.
- - :bell: I’m looking to collaborate on Data Analytics Projects.
- - :runner: I’m looking for help with Full Stack Development.
- - :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.
- <br/>
- 
+<br/>
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md">:cd: Top Language Card</a>
 
 </br>
