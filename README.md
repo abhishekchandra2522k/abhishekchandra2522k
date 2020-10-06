@@ -15,31 +15,31 @@
 ##### Connect with me on..
 
 <a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/"/>
- <img src = "https://www.flaticon.com/svg/static/icons/svg/168/168944.svg" width = 20px align = "left" alt="Abhishek's LinkedIn"/>
+ <img src = "https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width = 25px align = "left" alt="Abhishek's LinkedIn"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com" target="_blank">
-  <img align="left" alt="Abhishek's Gmail" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/gmail.svg" />
+  <img align="left" alt="Abhishek's Gmail" width="25px" target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
 </a>
 
 <a href="https://www.hackerearth.com/@1ac23456789" target="_blank">
-  <img align="right" alt="Abhishek's HackerEarth" width="20px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerearth.svg" />
+  <img align="right" alt="Abhishek's HackerEarth" width="25px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerearth.svg" />
 </a>
 
 <a href="https://www.hackerrank.com/Abhishek_Coder" target="_blank">
-  <img align="right" alt="Abhishek's HackerRank" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerrank.svg" />
+  <img align="right" alt="Abhishek's HackerRank" width="25px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerrank.svg" />
 </a>
 
 <a href="https://www.instagram.com/_abhishekchandra/" target="_blank">
-  <img align="left" alt="Abhishek's Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/instagram.svg" />
+  <img align="left" alt="Abhishek's Instagram" width="25px" target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 
 <a href="https://twitter.com/abhishek2522000">
-  <img align="left" alt="Abhishek Chandra | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/twitter.svg" />
+  <img align="left" alt="Abhishek Chandra | Twitter" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
 </a>
 
 <a href="https://github.com/abhishekchandra2522k" target="_blank">
-  <img align="right" alt="Abhishek's GitHub" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />
+  <img align="right" alt="Abhishek's GitHub" width="25px" target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
 </a>
 </br>
 </br>
