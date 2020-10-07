@@ -40,10 +40,11 @@
   <img align="right" alt="Abhishek's GitHub" width="25px" target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
 </a>
 
-<br/>
-
+<br>
+<br>
+<p>
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md">:cd: Top Language Card</a>
-
+</p>
 
 <br/>
 
