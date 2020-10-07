@@ -1,6 +1,6 @@
 ## नमस्ते ! <img src = "https://www.flaticon.com/svg/static/icons/svg/706/706761.svg" width = 25px/>
 
-### I am Abhishek Chandra. <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867369.svg" width = 25px/>
+### I am Abhishek Chandra. <!--<img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867369.svg" width = 25px/> -->
 
 
 #### I am doing B.Tech. from Guru Gobind Singh Indraprastha University. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
