@@ -39,12 +39,13 @@
 <a href="https://github.com/abhishekchandra2522k" target="_blank">
   <img align="right" alt="Abhishek's GitHub" width="25px" target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
 </a>
-</br>
+
+<br/>
 
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md">:cd: Top Language Card</a>
 
 
-</br>
+<br/>
 
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=dark" align = "center"/>
