@@ -2,7 +2,6 @@
 
 ### I am Abhishek Chandra. <!--<img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867369.svg" width = 25px/> -->
 
-
 #### I am doing B.Tech. from Guru Gobind Singh Indraprastha University. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
 
  - 🔭 I’m currently working on a Machine Learning Project. <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867352.svg" width = 20px/>
@@ -10,8 +9,7 @@
  - :bell: I’m looking to collaborate on Data Analytics Projects. <img src = "https://www.flaticon.com/svg/static/icons/svg/38/38795.svg" width = 20px/>
  - :runner: I’m looking for help with Full Stack Development. <img src = "https://www.flaticon.com/svg/static/icons/svg/1163/1163890.svg" width = 20px/>
  - :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders. <img src = "https://www.flaticon.com/svg/static/icons/svg/973/973033.svg" width = 20px/>
- <br/>
- 
+
 ##### Connect with me on..
 
 <a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/"/>
@@ -42,17 +40,11 @@
   <img align="right" alt="Abhishek's GitHub" width="25px" target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
 </a>
 </br>
-</br>
-
-
-<br/>
 
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md">:cd: Top Language Card</a>
 
 
 </br>
-
-
 
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=dark" align = "center"/>
