@@ -7,7 +7,7 @@
  - 🔭 I’m currently working on a Machine Learning Project. <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867352.svg" width = 20px/>
  - 🌱 I’m currently learning Java. <img src = "https://www.flaticon.com/svg/static/icons/svg/152/152760.svg" width=20px/>
  - :bell: I’m looking to collaborate on Data Analytics Projects. <img src = "https://www.flaticon.com/svg/static/icons/svg/38/38795.svg" width = 20px/>
- - :runner: I’m looking for help with Full Stack Development. <img src = "https://www.flaticon.com/svg/static/icons/svg/1163/1163890.svg" width = 20px/>
+ - :runner: I’m looking for help with Full Stack Development. <img src = "https://www.flaticon.com/svg/static/icons/svg/2721/2721266.svg" width = 25px/>
  - :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders. <img src = "https://www.flaticon.com/svg/static/icons/svg/973/973033.svg" width = 20px/>
 
 ##### Connect with me on..
