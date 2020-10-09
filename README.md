@@ -2,7 +2,7 @@
 
 ### I am Abhishek Chandra. <!--<img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867369.svg" width = 25px/> -->
 
-#### I am doing B.Tech. from Guru Gobind Singh Indraprastha University. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
+#### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
 
  - 🔭 I’m currently working on a Machine Learning Project. <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867352.svg" width = 20px/>
  - 🌱 I’m currently learning Java. <img src = "https://www.flaticon.com/svg/static/icons/svg/152/152760.svg" width=20px/>
@@ -43,7 +43,8 @@
 <br>
 <br>
 <p>
-<a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md">:cd: Top Language Card</a>
+<a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"> Top Language Card</a>
+<img src = "https://www.flaticon.com/svg/static/icons/svg/2282/2282594.svg" width = 25px/>
 </p>
 
 <br/>
