@@ -50,11 +50,11 @@
 <br/>
 
 <p align = "center">
-<img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=dark" align = "center"/>
+<img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=solarized-light" align = "center"/>
 </p>
 
 
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=dark"/>
+<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=solarized-light"/>
 </p>
