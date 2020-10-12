@@ -47,7 +47,7 @@
 <br>
 <p>
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"> Top Language Card</a>
-<img src = "https://www.flaticon.com/svg/static/icons/svg/2282/2282594.svg" width = 25px/>
+&nbsp; <img src = "https://www.flaticon.com/svg/static/icons/svg/2282/2282594.svg" width = 25px/>
 </p>
 
 <br/>
