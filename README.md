@@ -7,11 +7,11 @@
 
 #### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
 
- - 🔭 I’m currently working on a Machine Learning Project. <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867352.svg" width = 20px/>
- - 🌱 I’m currently learning Java. <img src = "https://www.flaticon.com/svg/static/icons/svg/152/152760.svg" width=20px/>
- - :bell: I’m looking to collaborate on Data Analytics Projects. <img src = "https://www.flaticon.com/svg/static/icons/svg/38/38795.svg" width = 20px/>
- - :runner: I’m looking for help with Full Stack Development. <img src = "https://www.flaticon.com/svg/static/icons/svg/2721/2721266.svg" width = 25px/>
- - :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders. <img src = "https://www.flaticon.com/svg/static/icons/svg/973/973033.svg" width = 20px/>
+######  🔭 I’m currently working on a Machine Learning Project. <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867352.svg" width = 20px/>
+######  🌱 I’m currently learning Java. <img src = "https://www.flaticon.com/svg/static/icons/svg/152/152760.svg" width=20px/>
+######  :bell: I’m looking to collaborate on Data Analytics Projects. <img src = "https://www.flaticon.com/svg/static/icons/svg/38/38795.svg" width = 20px/>
+######  :runner: I’m looking for help with Full Stack Development. <img src = "https://www.flaticon.com/svg/static/icons/svg/2721/2721266.svg" width = 25px/>
+######  :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders. <img src = "https://www.flaticon.com/svg/static/icons/svg/973/973033.svg" width = 20px/>
 
 ##### Connect with me on
 
@@ -56,11 +56,11 @@
 <br/>
 
 <p align = "center">
-<img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=solarized-light" align = "center"/>
+<img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=shades-of-purple" align = "center"/>
 </p>
 
 
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=solarized-light"/>
+<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=shades-of-purple"/>
 </p>
