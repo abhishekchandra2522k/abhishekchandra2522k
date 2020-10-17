@@ -52,7 +52,7 @@
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "https://media.giphy.com/media/bH5wBWPKWHbp0Cd1UM/giphy.gif" width = 150px alt = "Top Language Card"/></a>
 </p>
 
-<br/>
+
 
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=shades-of-purple" align = "center"/>
