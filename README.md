@@ -1,17 +1,24 @@
 # नमस्ते ! <img src = "https://www.flaticon.com/svg/static/icons/svg/706/706761.svg" width = 25px/>
 
-<!--### I am Abhishek Chandra. <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867369.svg" width = 25px/> -->
 <p align = "center">
 <img src = "ABHISHEK CHANDRA_2.gif" width = 500px height = 150px/>
 </p>
 
-### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
+#### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
+<details>
+ <summary><b>What am I doing?</b></summary>
+ 
+- 🔭 I’m currently working on a Machine Learning Project. <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867352.svg" width = 20px/>
+ 
+-  🌱 I’m currently learning Java. <img src = "https://www.flaticon.com/svg/static/icons/svg/152/152760.svg" width=20px/>
 
-####  🔭 I’m currently working on a Machine Learning Project. <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867352.svg" width = 20px/>
-####  🌱 I’m currently learning Java. <img src = "https://www.flaticon.com/svg/static/icons/svg/152/152760.svg" width=20px/>
-####  :bell: I’m looking to collaborate on Data Analytics Projects. <img src = "https://www.flaticon.com/svg/static/icons/svg/38/38795.svg" width = 20px/>
-####  :runner: I’m looking for help with Full Stack Development. <img src = "https://www.flaticon.com/svg/static/icons/svg/2721/2721266.svg" width = 25px/>
-####  :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders. <img src = "https://www.flaticon.com/svg/static/icons/svg/973/973033.svg" width = 20px/>
+-  :bell: I’m looking to collaborate on Data Analytics Projects. <img src = "https://www.flaticon.com/svg/static/icons/svg/38/38795.svg" width = 20px/>
+
+-  :runner: I’m looking for help with Full Stack Development. <img src = "https://www.flaticon.com/svg/static/icons/svg/2721/2721266.svg" width = 25px/>
+
+-  :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders. <img src = "https://www.flaticon.com/svg/static/icons/svg/973/973033.svg" width = 20px/>
+</details>
+
 
 ###### Connect with me on
 
@@ -52,14 +59,18 @@
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "https://media.giphy.com/media/bH5wBWPKWHbp0Cd1UM/giphy.gif" width = 150px alt = "Top Language Card"/></a>
 </p>
 
-
-
+<details>
+<summary>📈 My GitHub Stats</summary>
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=shades-of-purple" align = "center"/>
 </p>
 
+</details>
 
 
+<details>
+<summary>📈 My Wakatime Stats</summary>
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=shades-of-purple"/>
+<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=shades-of-purple" alt = "abhishekchandra"/>
 </p>
+</details>
