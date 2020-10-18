@@ -2,7 +2,7 @@
 
 <!--### I am Abhishek Chandra. <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867369.svg" width = 25px/> -->
 <p align = "center">
-<img src = "abhishek_chandra_4.gif" width = 600px height = 180px/>
+<img src = "ABHISHEK CHANDRA_2.gif" width = 500px height = 150px/>
 </p>
 
 ### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
