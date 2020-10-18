@@ -32,6 +32,7 @@
   <img align="left" alt="Abhishek's HackerRank" width="25px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerrank.svg" />
 </a>
 
+<br/>
 
 #### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
 <details>
@@ -49,7 +50,7 @@
 </details>
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+ <summary>📈 <b>My GitHub Stats</b></summary>
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=shades-of-purple" align = "center"/>
 </p>
@@ -58,7 +59,7 @@
 
 
 <details>
-<summary>📈 My Wakatime Stats</summary>
+ <summary>📈 <b>My Wakatime Stats</b></summary>
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=shades-of-purple" alt = "abhishekchandra"/>
 </p>
