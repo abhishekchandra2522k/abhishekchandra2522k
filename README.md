@@ -50,17 +50,18 @@
 -  :cyclone: Knowledge fact: The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders. <img src = "https://www.flaticon.com/svg/static/icons/svg/973/973033.svg" width = 20px/>
 </details>
 
+<br/>
 <details>
- <summary>📈 <b>My GitHub Stats</b></summary>
+ <summary><b>My GitHub Stats</b></summary>
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=shades-of-purple" align = "center"/>
 </p>
 
 </details>
 
-
+<br/>
 <details>
- <summary>📈 <b>My Wakatime Stats</b></summary>
+ <summary><b>My Wakatime Stats</b></summary>
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=shades-of-purple" alt = "abhishekchandra"/>
 </p>
