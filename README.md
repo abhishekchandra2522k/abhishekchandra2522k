@@ -10,7 +10,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
-  <img alt="Abhishek's Gmail" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
+  <img alt="Abhishek's Gmail" width="35px" src="gmail.jpg" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/_abhishekchandra/">
