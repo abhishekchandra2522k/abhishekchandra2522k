@@ -24,14 +24,6 @@
 <a href="https://github.com/abhishekchandra2522k">
   <img alt="Abhishek's GitHub" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
 </a>
-&nbsp;&nbsp;
-<a href="https://www.hackerearth.com/@1ac23456789">
-  <img alt="Abhishek's HackerEarth" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerearth.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/Abhishek_Coder">
-  <img alt="Abhishek's HackerRank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/hackerrank.svg" />
-</a>
 </p>
 
 
