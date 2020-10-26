@@ -20,10 +20,6 @@
 <a href="https://twitter.com/abhishek2522000/">
   <img alt="Abhishek Chandra | Twitter" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/abhishekchandra2522k">
-  <img alt="Abhishek's GitHub" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733553.svg" />
-</a>
 </p>
 
 
