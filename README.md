@@ -18,8 +18,7 @@
   <img alt="Abhishek Chandra | Twitter" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
 </a>
  </p>
-
-
+ 
 #### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
 <details>
  <summary><b>What am I doing?</b></summary>
