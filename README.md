@@ -45,7 +45,7 @@
 
 <br/>
 <details>
- <summary><b>My Wakatime Stats</b></summary>
+ <summary><b>My Wakatime Weekly Stats</b></summary>
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=shades-of-purple" alt = "abhishekchandra"/>
 </p>
