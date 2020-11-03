@@ -3,20 +3,26 @@
 <img src = "ABHISHEK CHANDRA_2.gif" width = 200px height = 50px/>
 <p align = "left">
 <a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/">
- <img src = "https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width = 20px alt="Abhishek's LinkedIn"/>
+ <img src = "https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width = 30px alt="Abhishek's LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
-  <img alt="Abhishek's Gmail" width="24px" src="gmail.jpg" />
+  <img alt="Abhishek's Gmail" width="34px" src="gmail.jpg" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/_abhishekchandra/">
-  <img alt="Abhishek's Instagram" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+  <img alt="Abhishek's Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/abhishek2522000/">
-  <img alt="Abhishek Chandra | Twitter" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
+  <img alt="Abhishek Chandra | Twitter" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
 </a>
+ &nbsp;&nbsp;
+ 
+<a href="https://dev.to/abhishekchandra2522k">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Chandra's DEV Profile" height="30" width="30">
+</a>
+ 
  </p>
  
 #### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
