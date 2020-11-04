@@ -1,6 +1,7 @@
 # नमस्ते ! <img src = "https://www.flaticon.com/svg/static/icons/svg/706/706761.svg" width = 25px/>
-
-<img src = "ABHISHEK CHANDRA_2.gif" width = 200px height = 50px/>
+<p align = "center">
+<img src = "ABHISHEK CHANDRA_2.gif" width = 500px height = 100px/>
+</p>
 <p align = "left">
 <a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/">
  <img src = "https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width = 30px alt="Abhishek's LinkedIn"/>
@@ -22,7 +23,10 @@
 <a href="https://dev.to/abhishekchandra2522k">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Chandra's DEV Profile" height="30" width="30">
 </a>
- 
+  &nbsp;&nbsp;
+<a href="https://google.qwiklabs.com/public_profiles/c37ee239-2c0a-4ebb-ba0e-803b1f7b84cc">
+  <img src="google-cloud.png" alt="Abhishek Chandra's Cloud Profile" height="30" width="30">
+</a>
  </p>
  
 #### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
