@@ -1,8 +1,8 @@
-# नमस्ते ! <img src = "https://www.flaticon.com/svg/static/icons/svg/706/706761.svg" width = 25px/>
+<!--# नमस्ते ! <img src = "https://www.flaticon.com/svg/static/icons/svg/706/706761.svg" width = 25px/>-->
 <p align = "center">
-<img src = "ABHISHEK CHANDRA.jpg" height = 200px width = 750px/>
+<img src = "ABHISHEK CHANDRA.png"/>
 </p>
-<p align = "left">
+<p align = "center">
 <a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/">
  <img src = "https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width = 30px alt="Abhishek's LinkedIn"/>
 </a>
