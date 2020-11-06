@@ -1,6 +1,6 @@
 # नमस्ते ! <img src = "https://www.flaticon.com/svg/static/icons/svg/706/706761.svg" width = 25px/>
 <p align = "center">
-<img src = "ABHISHEK CHANDRA.gif"/>
+<img src = "ABHISHEK CHANDRA.jpg" height = 200px width = 750px/>
 </p>
 <p align = "left">
 <a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/">
