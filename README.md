@@ -3,32 +3,6 @@
 <p align = "center">
 <img src = "ABHISHEK CHANDRA.png"/>
 </p>
-
-<p align = "center">
-<a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/">
- <img src = "https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width = 30px alt="Abhishek's LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
-  <img alt="Abhishek's Gmail" width="34px" src="gmail.jpg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/_abhishekchandra/">
-  <img alt="Abhishek's Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/abhishek2522000/">
-  <img alt="Abhishek Chandra | Twitter" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
-</a>
- &nbsp;&nbsp;
- <a href="https://dev.to/abhishekchandra2522k">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Chandra's DEV Profile" height="30" width="30">
-</a>
- &nbsp;&nbsp;
-<a href="https://google.qwiklabs.com/public_profiles/c37ee239-2c0a-4ebb-ba0e-803b1f7b84cc">
-  <img src="google-cloud.png" alt="Abhishek Chandra's Cloud Profile" height="30" width="30">
-</a>
- </p>
  
 #### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
 <details>
@@ -64,3 +38,30 @@
 <p>
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "https://media.giphy.com/media/bH5wBWPKWHbp0Cd1UM/giphy.gif" width = 150px alt = "Top Language Card"/></a>
 </p>
+
+##### Contact
+<p>
+<a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/">
+ <img src = "https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width = 30px alt="Abhishek's LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
+  <img alt="Abhishek's Gmail" width="34px" src="gmail.jpg" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/_abhishekchandra/">
+  <img alt="Abhishek's Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/abhishek2522000/">
+  <img alt="Abhishek Chandra | Twitter" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
+</a>
+ &nbsp;&nbsp;
+ <a href="https://dev.to/abhishekchandra2522k">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Chandra's DEV Profile" height="30" width="30">
+</a>
+ &nbsp;&nbsp;
+<a href="https://google.qwiklabs.com/public_profiles/c37ee239-2c0a-4ebb-ba0e-803b1f7b84cc">
+  <img src="google-cloud.png" alt="Abhishek Chandra's Cloud Profile" height="30" width="30">
+</a>
+ </p>
