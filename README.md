@@ -46,7 +46,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
-  <img alt="Abhishek's Gmail" width="34px" src="gmail.jpg" />
+  <img alt="Abhishek's Gmail" width="30px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/_abhishekchandra/">
