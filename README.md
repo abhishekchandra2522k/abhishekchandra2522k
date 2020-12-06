@@ -4,9 +4,10 @@
 <img src = "ABHISHEK CHANDRA.png"/>
 </p>
  
-#### I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi. <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
 <details>
- <summary><b>What am I doing?</b></summary>
+ <summary><b>What I am doing?</b></summary>
+ 
+-  _I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi._ <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
  
 -  _I’m currently working on a Machine Learning Project._ <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867352.svg" width = 20px/>
  
@@ -46,7 +47,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
-  <img alt="Abhishek's Gmail" width="30px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />
+  <img alt="Abhishek's Gmail" width="33px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/_abhishekchandra/">
