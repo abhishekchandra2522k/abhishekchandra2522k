@@ -1,7 +1,8 @@
 <!--# नमस्ते ! <img src = "https://www.flaticon.com/svg/static/icons/svg/706/706761.svg" width = 25px/>-->
 
 <p align = "center">
-<img src = "ABHISHEK CHANDRA.png"/>
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
 </p>
  
 <details>
