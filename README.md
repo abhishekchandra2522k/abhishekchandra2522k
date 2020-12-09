@@ -1,11 +1,11 @@
 <!--# नमस्ते ! <img src = "https://www.flaticon.com/svg/static/icons/svg/706/706761.svg" width = 25px/>-->
 
-<p align = "center">
+
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/time_to_code.png height=275px width=1500px align=right alt=Image ALT />
 <!--END_SECTION:update_image-->
-</p>
- 
+
+<br />
 <details>
  <summary><b>What I am doing?</b></summary>
  
