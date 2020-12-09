@@ -2,6 +2,7 @@
 
 <p align = "center">
 <!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/your_guide_to_code.png height=312px width=1500px align=right alt=Image ALT />
 <!--END_SECTION:update_image-->
 </p>
  
