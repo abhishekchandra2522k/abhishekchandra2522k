@@ -5,7 +5,9 @@
 <img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/time_to_code.png height=210px width=1500px align=right alt=Image ALT />
 <!--END_SECTION:update_image-->
 
-<br />
+
+
+&nbsp;
 <details>
  <summary><b>What I am doing?</b></summary>
  
