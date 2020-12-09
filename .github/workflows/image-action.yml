@@ -15,5 +15,5 @@ jobs:
         with:
           IMG_ALT: Image ALT
           IMG_PATH: images
-          HEIGHT: 275px       # default
-          WIDTH: 1500px        # default
+          HEIGHT: 210px      
+          WIDTH: 1500px      
