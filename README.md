@@ -1,11 +1,13 @@
 <!--# नमस्ते ! <img src = "https://www.flaticon.com/svg/static/icons/svg/706/706761.svg" width = 25px/>-->
 
-<p align = "center">
+
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/time_to_code.png height=275px width=1500px align=right alt=Image ALT />
+<img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/time_to_code.png height=210px width=1500px align=right alt=Image ALT />
 <!--END_SECTION:update_image-->
-</p>
- 
+
+
+
+&nbsp;
 <details>
  <summary><b>What I am doing?</b></summary>
  
@@ -76,6 +78,6 @@
  
 <a href = "https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
+<i>❝The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
