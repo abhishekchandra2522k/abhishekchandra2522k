@@ -9,7 +9,7 @@
 
 &nbsp;
 <details>
- <summary><b>What I am doing?</b></summary>
+ <summary><b>About Me</b></summary>
  
 -  _I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi._ <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
  
