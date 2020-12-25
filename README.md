@@ -41,7 +41,7 @@
 
 
 <p>
-<a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "https://media.giphy.com/media/bH5wBWPKWHbp0Cd1UM/giphy.gif" width = 150px alt = "Top Language Card"/></a>
+<a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "top_language.gif" width = 150px alt = "Top Language Card"/></a>
 </p>
 
 ##### Contact
