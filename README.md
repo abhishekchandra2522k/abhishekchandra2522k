@@ -24,9 +24,9 @@
 
 <br/>
 <details>
- <summary><b>My GitHub Stats (2020)</b></summary>
+ <summary><b>My GitHub Stats</b></summary>
 <p align = "center">
-<img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=shades-of-purple" align = "center"/>
+<img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=graywhite&include_all_commits=true" align = "center"/>
 </p>
 
 </details>
@@ -35,7 +35,7 @@
 <details>
  <summary><b>My Wakatime Weekly Stats</b></summary>
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=shades-of-purple" alt = "abhishekchandra"/>
+<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/>
 </p>
 </details>
 
