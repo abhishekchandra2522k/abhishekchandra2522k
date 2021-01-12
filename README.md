@@ -1,15 +1,15 @@
-<!--# नमस्ते ! <img src = "https://www.flaticon.com/svg/static/icons/svg/706/706761.svg" width = 25px/>-->
+<!--<h3 align="center"> नमस्ते !  <img src = "https://www.flaticon.com/svg/vstatic/svg/706/706506.svg?token=exp=1610457628~hmac=d2a0b69909345ef9261344fb73f3eabc" width = 25px/></h3>
+<hr>-->
 
-
+<a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/0008.jpg height=210px width=1500px align=right alt=Image ALT />
 <!--END_SECTION:update_image-->
-
-
+</a>
 
 &nbsp;
 <details>
- <summary><b>About Me</b></summary>
+ <summary><b>About Me  :unlock:</b></summary>
  
 -  _I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi._ <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
  
@@ -24,7 +24,7 @@
 
 <br/>
 <details>
- <summary><b>My GitHub Stats</b></summary>
+ <summary><b>My GitHub Stats  :bar_chart:</b></summary>
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=graywhite&include_all_commits=true" align = "center"/>
 </p>
@@ -33,7 +33,7 @@
 
 <br/>
 <details>
- <summary><b>My Wakatime Weekly Stats</b></summary>
+ <summary><b>My Wakatime Weekly Stats  <img src="https://wakatime.com/static/img/wakatime.svg" width="30px" height="25px"/></b></summary>
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/>
 </p>
