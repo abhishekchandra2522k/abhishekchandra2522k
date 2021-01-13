@@ -13,9 +13,9 @@
  
 -  _I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi._ <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
  
--  _I’m currently working on a Machine Learning Project._ <img src = "https://www.flaticon.com/svg/static/icons/svg/2867/2867352.svg" width = 20px/>
+-  _I’m currently working on a <a href="https://github.com/abhishekchandra2522k/Pipboy-from-fallout-4">html-css-js</a> Project._ <img src = "https://www.flaticon.com/svg/vstatic/svg/412/412499.svg?token=exp=1610521135~hmac=ff33f9daca09fd31a31209eb013a33d6" width = 20px/>
  
--  _I’m currently learning Java._ <img src = "https://www.flaticon.com/svg/static/icons/svg/152/152760.svg" width=20px/>
+-  _I’m currently learning <a href="https://github.com/abhishekchandra2522k/python3">Pyhton</a>._ <img src = "https://www.flaticon.com/svg/vstatic/svg/180/180867.svg?token=exp=1610520918~hmac=1c59499089da996a7160f073a8ed4afe" width=20px/>
 
 -  _I’m looking to collaborate on Data Analytics Projects._ <img src = "https://www.flaticon.com/svg/static/icons/svg/38/38795.svg" width = 20px/>
 
