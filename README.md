@@ -78,6 +78,6 @@
  
 <a href = "https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Alan Turing the father of computer science, artificial intelligence and who helped break German WW2 cyphers, committed suicide after being forced to undergo hormonal treatment for homosexuality and barred from continuing his cryptographic work.❞</i>
+<i>❝Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
