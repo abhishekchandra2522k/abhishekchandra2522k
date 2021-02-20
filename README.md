@@ -39,6 +39,11 @@
 </p>
 </details>
 
+<br/>
+<details>
+ <summary><b>GitHub Skyline</summary><br/>
+  <img src="skyline.gif" alt="GitHub Skyline 2020" height=500px width=1000px>
+</details>
 
 <p>
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "top_language.gif" width = 150px alt = "Top Language Card"/></a>
