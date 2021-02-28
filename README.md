@@ -3,7 +3,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/18.png height=210px width=1500px align=right alt=Image ALT />
+<img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/20.png height=210px width=1500px align=right alt=Image ALT />
 <!--END_SECTION:update_image-->
 </a>
 
@@ -39,6 +39,11 @@
 </p>
 </details>
 
+<br/>
+<details>
+ <summary><b>GitHub Skyline</summary><br/>
+  <img src="skyline.gif" alt="GitHub Skyline 2020" height=500px width=1000px>
+</details>
 
 <p>
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "top_language.gif" width = 150px alt = "Top Language Card"/></a>
@@ -85,6 +90,6 @@
  
 <a href = "https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   ❞</i>
+<i>❝The fact that keyboard have ‘Q’ ‘W’ ‘E’ ‘R’ ‘T’ ‘Y’ types of button: When keyboard was invented, it had buttons in alphabetical order, as a result, the typing speed was too fast and the computer used to hang. So, to reduce the speed of a person, qwerty keyboard were invented.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
