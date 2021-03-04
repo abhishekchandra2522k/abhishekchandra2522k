@@ -3,7 +3,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/20.png height=210px width=1500px align=right alt=Image ALT />
+<img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/007.png height=210px width=1500px align=right alt=Image ALT />
 <!--END_SECTION:update_image-->
 </a>
 
@@ -90,6 +90,6 @@
  
 <a href = "https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The fact that keyboard have ‘Q’ ‘W’ ‘E’ ‘R’ ‘T’ ‘Y’ types of button: When keyboard was invented, it had buttons in alphabetical order, as a result, the typing speed was too fast and the computer used to hang. So, to reduce the speed of a person, qwerty keyboard were invented.❞</i>
+<i>❝“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”— Gene Spafford   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
