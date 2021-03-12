@@ -30,10 +30,10 @@
 </p>
 
 </details>
-
+<!--<img src="https://wakatime.com/static/img/wakatime.svg" width="30px" height="25px"/>-->
 <br/>
 <details>
- <summary><b>My Wakatime Weekly Stats  <img src="https://wakatime.com/static/img/wakatime.svg" width="30px" height="25px"/></b></summary>
+ <summary><b>My Wakatime Weekly Stats</b></summary>
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/>
 </p>
@@ -41,7 +41,7 @@
 
 <br/>
 <details>
- <summary><b>GitHub Skyline</summary><br/>
+ <summary><b>GitHub Skyline 2020</summary><br/>
   <img src="skyline.gif" alt="GitHub Skyline 2020" height=500px width=1000px>
 </details>
 
