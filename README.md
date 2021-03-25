@@ -76,13 +76,13 @@
 <a href = "https://abhishekchandra.hashnode.dev/">
   <img src="hashnode.png" alt="Abhishek's Hashnode" height="30" width="30"/>
 </a>
+  &nbsp;&nbsp;
+<a href="https://google.qwiklabs.com/public_profiles/c37ee239-2c0a-4ebb-ba0e-803b1f7b84cc">
+  <img src="google-cloud.png" alt="Abhishek Chandra's Cloud Profile" height="30" width="30">
+</a>
  &nbsp;&nbsp;
  <a href="https://dev.to/abhishekchandra2522k">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Chandra's DEV Profile" height="30" width="30">
-</a>
- &nbsp;&nbsp;
-<a href="https://google.qwiklabs.com/public_profiles/c37ee239-2c0a-4ebb-ba0e-803b1f7b84cc">
-  <img src="google-cloud.png" alt="Abhishek Chandra's Cloud Profile" height="30" width="30">
 </a>
 </p>
  
