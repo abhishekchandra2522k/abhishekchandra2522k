@@ -11,15 +11,15 @@
 <details>
  <summary><b>About Me  :unlock:</b></summary>
  
--  _I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi._ <img src = "https://www.flaticon.com/svg/static/icons/svg/2883/2883767.svg" width = 25px/>
+-  _I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi._
  
--  _I’m currently working on a <a href="https://github.com/abhishekchandra2522k/Pipboy-from-fallout-4">html-css-js</a> Project._ <img src = "https://www.flaticon.com/svg/vstatic/svg/1087/1087840.svg?token=exp=1612628556~hmac=ac8d73c2995f1871149bfa72f222c73a" width = 20px/>
+-  _I’m currently working on a <a href="https://github.com/abhishekchandra2522k/Pipboy-from-fallout-4">html-css-js</a> Project._
  
 -  _I’m currently learning <a href="https://github.com/abhishekchandra2522k/CPPrograms">C++</a>._
 
--  _I’m looking to collaborate on Data Analytics Projects._ <img src = "https://www.flaticon.com/svg/static/icons/svg/38/38795.svg" width = 20px/>
+-  _I’m looking to collaborate on Data Analytics Projects._
 
--  _I’m looking for help with Full Stack Development._ <img src = "https://www.flaticon.com/svg/static/icons/svg/2721/2721266.svg" width = 25px/>
+-  _I’m looking for help with Full Stack Development._
 </details>
 
 <br/>
@@ -30,7 +30,6 @@
 </p>
 
 </details>
-<!--<img src="https://wakatime.com/static/img/wakatime.svg" width="30px" height="25px"/>-->
 <br/>
 <details>
  <summary><b>My Wakatime Weekly Stats</b></summary>
@@ -48,16 +47,19 @@
 <p>
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "top_language.gif" width = 150px alt = "Top Language Card"/></a>
 </p>
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchandra2522k"></p>
+<br>
 
 ##### Contact
 <p>
 <a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/">
  <img src = "https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width = 30px alt="Abhishek's LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
   <img alt="Abhishek's Gmail" width="33px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />
-</a>
+</a> -->
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/_abhishekchandra/">
   <img alt="Abhishek's Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
