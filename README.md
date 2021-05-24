@@ -11,15 +11,15 @@
 <details>
  <summary><b>About Me  :unlock:</b></summary>
  
--  _I am doing B.Tech. from Guru Gobind Singh Indraprastha University, New Delhi._
- 
--  _I’m currently working on a <a href="https://github.com/abhishekchandra2522k/Pipboy-from-fallout-4">html-css-js</a> Project._
- 
--  _I’m currently learning <a href="https://github.com/abhishekchandra2522k/CPPrograms">C++</a>._
+-  I am pursuing B.Tech. in Information Technology from Guru Gobind Singh Indraprastha University, New Delhi.
 
--  _I’m looking to collaborate on Data Analytics Projects._
+- Currently in my 6th Semester.
+ 
+-  I'm  learning <a href="https://github.com/abhishekchandra2522k/CPPrograms">C++</a>.
 
--  _I’m looking for help with Full Stack Development._
+-  I’m looking to collaborate on Data Analytics Projects.
+
+-  I’m looking for help with Full Stack Development.
 </details>
 
 <br/>
