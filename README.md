@@ -3,7 +3,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/12.png height=210px width=1500px align=right alt=Image ALT />
+<img src=https://raw.githubusercontent.com/abhishekchandra2522k/abhishekchandra2522k/master/images/24.png height=210px width=1500px align=right alt=Image ALT />
 <!--END_SECTION:update_image-->
 </a>
 
