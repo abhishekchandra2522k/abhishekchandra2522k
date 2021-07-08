@@ -7,7 +7,7 @@
 <!--END_SECTION:update_image-->
 </a>
 
-&nbsp;
+<!-- &nbsp;
 <details>
  <summary><b>About Me  :unlock:</b></summary>
  
@@ -20,46 +20,47 @@
 -  I’m looking to collaborate on Data Analytics Projects.
 
 -  I’m looking for help with Full Stack Development.
-</details>
+</details> -->
 
-<br/>
+<!-- <br/>
 <details>
  <summary><b>My GitHub Stats  :bar_chart:</b></summary>
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=graywhite&include_all_commits=true" align = "center"/>
 </p>
 
-</details>
-<br/>
+</details> -->
+<!-- <br/>
 <details>
  <summary><b>My Wakatime Weekly Stats</b></summary>
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/>
 </p>
-</details>
+</details> -->
 
-<br/>
+<!-- <br/>
 <details>
  <summary><b>GitHub Skyline 2020</summary><br/>
   <img src="skyline.gif" alt="GitHub Skyline 2020" height=500px width=1000px>
-</details>
+</details> -->
 
-<p>
+<!-- <p>
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "top_language.gif" width = 150px alt = "Top Language Card"/></a>
-</p>
+</p> -->
+<br>
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchandra2522k"></p>
 <br>
 
-##### Contact
+<!-- ##### Contact
 <p>
 <a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/">
  <img src = "https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width = 30px alt="Abhishek's LinkedIn"/>
 </a>
-<!-- &nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
   <img alt="Abhishek's Gmail" width="33px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />
-</a> -->
+</a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/_abhishekchandra/">
   <img alt="Abhishek's Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
@@ -70,9 +71,9 @@
 </a>
  &nbsp;&nbsp;
  <br/>
- </p>
+ </p> -->
  
-##### Profiles
+<!-- ##### Profiles
 
 <p>
 <a href = "https://abhishekchandra.hashnode.dev/">
@@ -86,9 +87,9 @@
  <a href="https://dev.to/abhishekchandra2522k">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Chandra's DEV Profile" height="30" width="30">
 </a>
-</p>
+</p> -->
  
- ##### Facts / Quotes
+ ##### Quotes
  
 <a href = "https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
