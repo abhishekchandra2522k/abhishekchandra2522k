@@ -47,9 +47,17 @@
 <!-- <p>
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "top_language.gif" width = 150px alt = "Top Language Card"/></a>
 </p> -->
-<br>
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchandra2522k"></p>
+
+<!--  ##### Quotes -->
+ 
+<!-- <a href = "https://github.com/marketplace/actions/quote-readme"> -->
+<!--STARTS_HERE_QUOTE_README-->
+<!-- <i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i> -->
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+<!-- &nbsp; -->
+
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchandra2522k"></p> -->
 <br>
 
 <!-- ##### Contact
@@ -89,10 +97,4 @@
 </a>
 </p> -->
  
- ##### Quotes
- 
-<a href = "https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+
