@@ -8,7 +8,7 @@
 <!--END_SECTION:update_image-->
 </a>
 
-<!-- &nbsp;
+&nbsp;
 <details>
  <summary><b>About Me  :unlock:</b></summary>
  
@@ -21,23 +21,20 @@
 -  I’m looking to collaborate on Data Analytics Projects.
 
 -  I’m looking for help with Full Stack Development.
-</details> -->
+</details>
 
-<!-- <br/>
-<details>
- <summary><b>My GitHub Stats  :bar_chart:</b></summary>
+<br/>
+
 <p align = "center">
 <img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=graywhite&include_all_commits=true" align = "center"/>
 </p>
 
-</details> -->
-<!-- <br/>
-<details>
- <summary><b>My Wakatime Weekly Stats</b></summary>
+<br/>
+
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/>
 </p>
-</details> -->
+
 
 <!-- <br/>
 <details>
@@ -49,11 +46,11 @@
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "top_language.gif" width = 150px alt = "Top Language Card"/></a>
 </p> -->
 
-<!--  ##### Quotes -->
+ ##### Quotes
  
-<!-- <a href = "https://github.com/marketplace/actions/quote-readme"> -->
+<a href = "https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<!-- <i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i> -->
+<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 <!-- &nbsp; -->
