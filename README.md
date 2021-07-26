@@ -14,7 +14,7 @@
  
 -  I am pursuing B.Tech. in Information Technology from Guru Gobind Singh Indraprastha University, New Delhi.
 
-- Currently in my 6th Semester.
+- Currently in my 7th Semester.
  
 -  I'm  learning <a href="https://github.com/abhishekchandra2522k/CPPrograms">C++</a>.
 
