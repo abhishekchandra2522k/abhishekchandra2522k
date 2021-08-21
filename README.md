@@ -8,7 +8,6 @@
 <!--END_SECTION:update_image-->
 <!-- </a> -->
 
-&nbsp;
 <details>
  <summary><b>About Me  :unlock:</b></summary>
  
