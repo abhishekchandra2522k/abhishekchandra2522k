@@ -15,7 +15,7 @@
 
 - Currently in my 7th Semester.
  
--  I'm  learning <a href="https://github.com/abhishekchandra2522k/CPPrograms">C++</a>.
+-  I'm  learning <a href="https://github.com/abhishekchandra2522k/CPPrograms">C++ and DSA</a>.
 
 -  I’m looking to collaborate on Data Analytics Projects.
 
