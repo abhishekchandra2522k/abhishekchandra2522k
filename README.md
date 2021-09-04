@@ -31,9 +31,10 @@
 <br/>
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/>
+<!-- <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/> -->
 </p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchandra2522k"></p>
+<br>
 
 <!-- <br/>
 <details>
@@ -54,8 +55,7 @@
 </a>
 <!-- &nbsp; -->
 
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchandra2522k"></p> -->
-<br>
+
 
 <!-- ##### Contact
 <p>
