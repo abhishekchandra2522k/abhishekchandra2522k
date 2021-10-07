@@ -25,7 +25,7 @@
 <br/>
 
 <p align = "center">
-<img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=blueberry&include_all_commits=true" align = "center"/>
+<img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=blueberry&include_all_commits=true&hide_border=true" align = "center"/>
 </p>
 
 <br/>
