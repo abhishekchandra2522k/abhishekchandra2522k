@@ -25,7 +25,7 @@
 <br/>
 
 <p align = "center">
-<img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=graywhite&include_all_commits=true" align = "center"/>
+<img alt="Abhishek's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&theme=blueberry&include_all_commits=true" align = "center"/>
 </p>
 
 <br/>
@@ -33,9 +33,8 @@
 <p align = "center">
 <!-- <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/> -->
 </p>
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchandra2522k"></p> -->
+<p align="center"><img src="https://githubreadme-streak.herokuapp.com?user=abhishekchandra2522k&theme=blueberry&hide_border=true"></p>
 <br>
-
 <!-- <br/>
 <details>
  <summary><b>GitHub Skyline 2020</summary><br/>
