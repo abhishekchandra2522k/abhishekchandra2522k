@@ -33,7 +33,7 @@
 <p align = "center">
 <!-- <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/> -->
 </p>
-<p align="center"><img src="https://githubreadme-streak.herokuapp.com?user=abhishekchandra2522k&theme=blueberry&hide_border=true"></p>
+<!-- <p align="center"><img src="https://githubreadme-streak.herokuapp.com?user=abhishekchandra2522k&theme=blueberry&hide_border=true"></p> -->
 <br>
 <!-- <br/>
 <details>
