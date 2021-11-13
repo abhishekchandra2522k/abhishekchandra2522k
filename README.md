@@ -45,7 +45,7 @@
 <a href = "https://github.com/abhishekchandra2522k/abhishekchandra2522k/blob/master/Top_Langs.md"><img src = "top_language.gif" width = 150px alt = "Top Language Card"/></a>
 </p> -->
 
- ##### Quotes
+<!--  ##### Quotes -->
  
 <a href = "https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
