@@ -11,7 +11,7 @@
 <details>
  <summary><b>About Me  :unlock:</b></summary>
  
--  I am pursuing B.Tech. in Information Technology from Guru Gobind Singh Indraprastha University, New Delhi.
+-  I am pursuing B.Tech. in Information Technology from Guru Gobind Singh Indraprastha University, New Delhi, INDIA.
 
 - Currently in my 7th Semester.
  
