@@ -31,6 +31,10 @@
 <br/>
 
 <p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchandra2522k&theme=yeblu&layout=compact&hide=jupyter%20notebook,html,css,php&langs_count=16" alt = "Top Lang's"/>
+</p>
+
+<p align = "center">
 <!-- <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/> -->
 </p>
 <!-- <p align="center"><img src="https://githubreadme-streak.herokuapp.com?user=abhishekchandra2522k&theme=blueberry&hide_border=true"></p> -->
