@@ -11,15 +11,11 @@
 <details>
  <summary><b>About Me  :unlock:</b></summary>
  
--  I am pursuing B.Tech. in Information Technology from Guru Gobind Singh Indraprastha University, New Delhi, INDIA.
+-  I am pursuing **B.Tech.** in Information Technology from Bharati Vidyapeeth's College Of Engineering (GGSIPU), New Delhi, INDIA.
 
-- Currently in my 7th Semester.
+- Currently in my 8th Semester.
  
--  I'm  learning <a href="https://github.com/abhishekchandra2522k/CPPrograms">C++ and DSA</a>.
-
--  I’m looking to collaborate on Data Analytics Projects.
-
--  I’m looking for help with Full Stack Development.
+-  I'm  learning C++, DSA, Java and SQL (Sometimes React & Blockchain).
 </details>
 
 <br/>
@@ -60,26 +56,26 @@
 
 
 
-<!-- ##### Contact
+##### Contact
 <p>
 <a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/">
- <img src = "https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width = 30px alt="Abhishek's LinkedIn"/>
+ <img src = "images/linkedin.gif" width = 33px alt="Abhishek's LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
-  <img alt="Abhishek's Gmail" width="33px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />
+  <img alt="Abhishek's Gmail" width="33px" src="images/gmail.gif" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/_abhishekchandra/">
-  <img alt="Abhishek's Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+  <img alt="Abhishek's Instagram" width="33px" src="images/instagram.gif" />
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/abhishek2522000/">
-  <img alt="Abhishek Chandra | Twitter" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
+<a href="https://twitter.com/abhidevchandra/">
+  <img alt="Abhishek Chandra | Twitter" width="33px" src="images/twitter.gif" />
 </a>
  &nbsp;&nbsp;
  <br/>
- </p> -->
+ </p>
  
 <!-- ##### Profiles
 
