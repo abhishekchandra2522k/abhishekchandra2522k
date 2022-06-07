@@ -59,19 +59,23 @@
 ##### Contact
 <p>
 <a href = "https://www.linkedin.com/in/abhishek-chandra-071977114/">
- <img src = "images/linkedin.gif" width = 33px alt="Abhishek's LinkedIn"/>
-</a>
+<!--  <img src = "images/linkedin.gif" width="33px" alt="Abhishek's LinkedIn"/> -->
+ Linkedin
+ </a>
 &nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=1ac23456789@gmail.com">
-  <img alt="Abhishek's Gmail" width="33px" src="images/gmail.gif" />
+<!--   <img alt="Abhishek's Gmail" width="33px" src="images/gmail.gif" /> -->
+ Gmail
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/_abhishekchandra/">
-  <img alt="Abhishek's Instagram" width="33px" src="images/instagram.gif" />
+<!--   <img alt="Abhishek's Instagram" width="33px" src="images/instagram.gif" /> -->
+ Instagram
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/abhidevchandra/">
-  <img alt="Abhishek Chandra | Twitter" width="33px" src="images/twitter.gif" />
+<!--   <img alt="Abhishek Chandra | Twitter" width="33px" src="images/twitter.gif" /> -->
+ Twitter
 </a>
  &nbsp;&nbsp;
  <br/>
