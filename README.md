@@ -49,7 +49,7 @@
  
 <a href = "https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
+<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 <!-- &nbsp; -->
