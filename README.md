@@ -11,11 +11,10 @@
 <details>
  <summary><b>About Me  :unlock:</b></summary>
  
--  I am pursuing **B.Tech.** in Information Technology from Bharati Vidyapeeth's College Of Engineering (GGSIPU), New Delhi, INDIA.
-
-- Currently in my 8th Semester.
+-  Completed my **B.Tech.** in Information Technology (2018-2022) from Bharati Vidyapeeth's College Of Engineering (GGSIPU), New Delhi, INDIA.
  
--  I'm  learning C++, DSA, Java and SQL (Sometimes React & Blockchain).
+-  Proficient in C and C++ Languages, Learning Java and SQL +(Sometimes JavaScript and ReactJS).
+
 </details>
 
 <br/>
