@@ -1,6 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
-
-![Banner](https://res.cloudinary.com/abhishek25/image/upload/v1663429601/LinkedIn_Banner_ibyxpd.png)
+Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
 
 <p align = "center">
 <img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=abhishekchandra2522k&show_icons=true&include_all_commits=true&hide_rank=true">
