@@ -6,6 +6,8 @@ on:
     # Runs at 2 UTC everyday
     - cron: "0 2 * * *"
 
+permissions: write-all
+
 jobs:
   update-readme:
     name: Update Quote README
