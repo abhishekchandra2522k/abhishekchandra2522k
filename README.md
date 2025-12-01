@@ -11,4 +11,12 @@ Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
 
 #### 📈 My Weekly Stats
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 November 2025 - To: 30 November 2025
+
+Docker   15 mins         ███████████████▒░░░░░░░░░   61.91 %
+YAML     9 mins          █████████▓░░░░░░░░░░░░░░░   38.09 %
+```
+
 <!--END_SECTION:waka-->
