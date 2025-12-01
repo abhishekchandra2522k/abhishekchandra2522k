@@ -5,6 +5,17 @@ Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
 </p>
 
 <br/>
-<p align = "center">
+<!-- <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekchandra&layout=compact&theme=graywhite" alt = "abhishekchandra"/>
-</p>
+</p> -->
+
+#### 📈 My Weekly Stats
+<!--START_SECTION:waka-->
+
+```txt
+From: 22 November 2025 - To: 29 November 2025
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
