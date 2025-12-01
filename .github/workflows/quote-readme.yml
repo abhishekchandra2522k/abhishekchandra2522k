@@ -11,4 +11,8 @@ jobs:
     name: Update Quote README
     runs-on: ubuntu-latest
     steps:
-      - uses: siddharth2016/quote-readme@main
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: Update README Waka Stats
+          SHOW_TITLE: true
