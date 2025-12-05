@@ -13,13 +13,11 @@ Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2025 - To: 03 December 2025
+From: 27 November 2025 - To: 04 December 2025
 
-Go           1 hr 14 mins    ██████████████████▓░░░░░░   74.19 %
-Docker       14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-YAML         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-TOML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Go           1 hr 15 mins    ███████████████████████▓░   94.86 %
+Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+TOML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
