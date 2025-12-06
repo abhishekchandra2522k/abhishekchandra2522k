@@ -13,7 +13,7 @@ Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2025 - To: 04 December 2025
+From: 28 November 2025 - To: 05 December 2025
 
 Go           1 hr 15 mins    ███████████████████████▓░   94.86 %
 Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
