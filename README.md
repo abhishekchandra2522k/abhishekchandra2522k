@@ -13,7 +13,7 @@ Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 
 No activity tracked
 ```
