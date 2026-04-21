@@ -13,12 +13,12 @@ Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-Python     1 hr 40 mins          █████████████████████▓░░░   87.21 %
-HTML       7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Markdown   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Other      2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Python     2 hrs 2 mins          ██████████████████████▒░░   89.32 %
+HTML       7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Markdown   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Other      2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
