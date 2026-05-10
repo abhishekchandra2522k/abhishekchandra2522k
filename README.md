@@ -13,9 +13,11 @@ Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 08 May 2026
+From: 02 May 2026 - To: 09 May 2026
 
-Python   8 mins                █████████████████████████   100.00 %
+Python       44 mins               ████████████████████████░   95.60 %
+Bash         1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
