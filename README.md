@@ -13,9 +13,11 @@ Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2026 - To: 20 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
-No activity tracked
+Python     26 mins               ████████████████████████▒   97.11 %
+Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Bash       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
