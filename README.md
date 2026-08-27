@@ -13,7 +13,7 @@ Hey, I'm [Abhishek Chandra!](https://bio.link/abhishekchandra)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2026 - To: 25 August 2026
+From: 19 August 2026 - To: 26 August 2026
 
 Python       2 hrs 16 mins         █████████████████████▓░░░   86.74 %
 Bash         11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
