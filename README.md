@@ -40,7 +40,7 @@ Hi there, I'm Abhishek Chandra! 👋🚀<br><br>🚀 About Me 🖥️💡<br><br
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 11 October 2026 - To: 18 October 2026
 
 Docker   32 mins               █████████░░░░░░░░░░░░░░░░   36.53 %
 YAML     25 mins               ███████▒░░░░░░░░░░░░░░░░░   29.50 %
