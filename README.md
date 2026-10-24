@@ -40,13 +40,13 @@ Hi there, I'm Abhishek Chandra! 👋🚀<br><br>🚀 About Me 🖥️💡<br><br
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2026 - To: 22 October 2026
+From: 16 October 2026 - To: 23 October 2026
 
-YAML         1 hr 45 mins          ████████████████░░░░░░░░░   64.10 %
-Python       32 mins               █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-Docker       13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Git Config   9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+YAML         1 hr 45 mins          ███████████████░░░░░░░░░░   59.95 %
+Python       32 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+Docker       25 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Git Config   9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
